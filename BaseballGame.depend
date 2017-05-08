@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1494289194 source:c:\users\max\desktop\css2a\baseballgame\baseballgame.cpp
+	<iostream>
+	"Sound.h"
+	"mmsystem.h"
+	"windows.h"
+	"Math.h"
+	<cstdlib>
+	<ctime>
+
+1494289781 c:\users\max\desktop\css2a\baseballgame\include\sound.h
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	<stdlib.h>
+
+1494288796 c:\users\max\desktop\css2a\baseballgame\include\math.h
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<ctime>
+
+1494288796 source:c:\users\max\desktop\css2a\baseballgame\src\math.cpp
+	"Math.h"
+
+1494289494 source:c:\users\max\desktop\css2a\baseballgame\src\sound.cpp
+	"sound.h"
+
