@@ -7,7 +7,7 @@
 #include <ctime>
 using namespace std;
 
-int main ()
+int main ()//main
 {
     Sound player1;
 
